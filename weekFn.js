@@ -1,4 +1,3 @@
-// weekFn.js
 function weekFn(cond) {
   let str = ''
 

@@ -1,4 +1,3 @@
-// weekFn.test.js
 const weekFn = require('../weekFn')
 
 describe('weekFn', () => {
